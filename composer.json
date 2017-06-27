@@ -1,0 +1,13 @@
+{
+    "name": "m2i/projet-web",
+    "description": "Un projet web pour expérimenter PHP",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Samuel Besnier",
+            "email": "sbesnier1901@gmail.com"
+        }
+    ],
+    "require": {}
+}
